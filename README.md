@@ -13,7 +13,7 @@
 2. Entre na pasta `trabalho_usabilidade-master`;
 3. Entre no arquivo `trabalho_usabilidade_final.rar` e vá na pasta `Trabalho A3`;
 4. Execute `npm install` dentro da pasta para instalar as dependências ;
-5. Execute `npm start" para rodar a aplicação;
+5. Execute `npm start` para rodar a aplicação;
 
 &#128101; <b>Integrantes</b>
 
